@@ -1,0 +1,10 @@
+{
+  "name": "دَرّسني",
+  "description": "أرفع ملزمتك... وخلي الباقي علينا. منصة دراسة ذكية لتحليل الملازم والملفات الدراسية وشرحها باللهجة العراقية والذكاء الاصطناعي.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

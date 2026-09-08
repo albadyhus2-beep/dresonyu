@@ -1,0 +1,241 @@
+[
+  {
+    "id": "doc_sample_heart_failure",
+    "title": "Pathophysiology of Heart Failure (قصور القلب)",
+    "fileName": "Heart_Failure_Lecture_Clinical_Medicine.pdf",
+    "fileSize": 1420800,
+    "fileHash": "sample_hash_hf_2026",
+    "pageCount": 18,
+    "summary": "ملزمة سريرية وأكاديمية متقدمة تغطي الفيزيولوجيا المرضية لقصور القلب الاحتقاني (CHF)، الآليات التعويضية (Compensatory Mechanisms)، التشخيص السريري، وتصنيف الجمعية الأمريكية لطب القلب (NYHA Classification).",
+    "difficulty": "متقدم / امتحاني",
+    "estimatedStudyTime": "3 ساعات",
+    "createdAt": "2026-09-08T05:00:00.000Z",
+    "lastStudiedAt": "2026-09-08T05:30:00.000Z",
+    "progressPercent": 40,
+    "lastTopicId": "topic-2",
+    "topics": [
+      {
+        "id": "topic-1",
+        "title": "مقدمة وتعريف قصور القلب",
+        "titleEn": "Introduction & Definition of Heart Failure",
+        "pageReference": "ص 1-3",
+        "summary": "تعريف متلازمة قصور القلب كخلل بنيوي أو وظيفي يقلل قدرة البطين على الامتلاء أو ضخ الدم، والفرق بين HFrEF و HFpEF.",
+        "keyConcepts": [
+          "Systolic vs Diastolic Dysfunction",
+          "Ejection Fraction (EF < 40%)",
+          "Cardiac Output & Stroke Volume"
+        ],
+        "subtopics": [
+          "Epidemiology",
+          "Ejection Fraction Categories",
+          "Preload vs Afterload"
+        ],
+        "difficulty": "سهل",
+        "isCompleted": true
+      },
+      {
+        "id": "topic-2",
+        "title": "الآليات التعويضية والفيزيولوجيا المرضية",
+        "titleEn": "Neurohormonal & Compensatory Pathophysiology",
+        "pageReference": "ص 4-8",
+        "summary": "تفعيل الجهاز العصبي الودي (SNS) ونظام الرينين-أنجيوتنسين-ألدوستيرون (RAAS)، وإعادة التشكيل القلبي (Ventricular Remodeling).",
+        "keyConcepts": [
+          "RAAS Activation & Angiotensin II",
+          "Sympathetic Nervous System (SNS) Overdrive",
+          "Frank-Starling Mechanism Failure",
+          "BNP & NT-proBNP release"
+        ],
+        "subtopics": [
+          "Renal perfusion feedback",
+          "Myocardial hypertrophy & apoptosis",
+          "Natriuretic peptides role"
+        ],
+        "difficulty": "صعب",
+        "isCompleted": false
+      },
+      {
+        "id": "topic-3",
+        "title": "المظاهر والأعراض السريرية",
+        "titleEn": "Clinical Features & Physical Findings",
+        "pageReference": "ص 9-12",
+        "summary": "أعراض قصور الجانب الأيسر (Dyspnea, Orthopnea, PND) مقابل أعراض قصور الجانب الأيمن (JVP elevation, Hepatosplenomegaly, Peripheral edema).",
+        "keyConcepts": [
+          "Paroxysmal Nocturnal Dyspnea (PND)",
+          "Elevated Jugular Venous Pressure (JVP)",
+          "Third Heart Sound (S3 Gallop)",
+          "Bilateral Pulmonary Crackles"
+        ],
+        "subtopics": [
+          "Left-sided failure manifestations",
+          "Right-sided failure manifestations",
+          "Framingham Diagnostic Criteria"
+        ],
+        "difficulty": "متوسط",
+        "isCompleted": false
+      },
+      {
+        "id": "topic-4",
+        "title": "الفحوصات التشخيصية وتصنيف المراحل",
+        "titleEn": "Diagnostic Workup & Staging",
+        "pageReference": "ص 13-15",
+        "summary": "الفحوصات المخبرية (BNP/NT-proBNP)، تخطيط صدى القلب (Echocardiography)، تصنيف NYHA ومراحل ACC/AHA.",
+        "keyConcepts": [
+          "Transthoracic Echocardiogram (TTE)",
+          "Biomarkers: BNP elevation",
+          "NYHA Functional Classes (I - IV)",
+          "ACC/AHA Stages (A - D)"
+        ],
+        "subtopics": [
+          "Chest X-Ray findings (Kerley B lines)",
+          "Electrocardiogram (ECG)",
+          "Differentiation from pulmonary disease"
+        ],
+        "difficulty": "متوسط",
+        "isCompleted": false
+      },
+      {
+        "id": "topic-5",
+        "title": "النهج العلاجي والأدوية المحورية",
+        "titleEn": "Pharmacological Management & Guidelines",
+        "pageReference": "ص 16-18",
+        "summary": "الأعمدة الدوائية الأربعة لقصور القلب (Fantastic Four): ARNI/ACEi, Beta-blockers, MRA, SGLT2 inhibitors.",
+        "keyConcepts": [
+          "Guideline-Directed Medical Therapy (GDMT)",
+          "ARNI (Sacubitril/Valsartan)",
+          "Beta-blockers (Bisoprolol, Carvedilol)",
+          "SGLT2 inhibitors (Dapagliflozin, Empagliflozin)",
+          "Loop Diuretics for symptom control"
+        ],
+        "subtopics": [
+          "Mortality-reducing drugs",
+          "Symptom relief with Furosemide",
+          "Device therapy (ICD, CRT)"
+        ],
+        "difficulty": "متقدم",
+        "isCompleted": false
+      }
+    ],
+    "importantTerms": [
+      {
+        "term": "الكسر القذفي",
+        "termEn": "Ejection Fraction (EF)",
+        "definition": "النسبة المئوية لحجم الدم الذي يضخه البطين الأيسر مع كل انقباض، المعدل الطبيعي 50-70%.",
+        "clinicalSignificance": "حاسم لتصنيف قصور القلب إلى HFrEF (<40%) أو HFpEF (≥50%).",
+        "page": "ص 2"
+      },
+      {
+        "term": "ضيق التنفس الاضطجاعي",
+        "termEn": "Orthopnea",
+        "definition": "ضيق تنفس يحدث عند الاستلقاء بشكل مستوٍ ويتحسن عند الجلوس أو استخدام وسائد متعددة.",
+        "clinicalSignificance": "علامة كلاسيكية على ارتفاع الضغط الشعيري الرئوي وتجمع السوائل.",
+        "page": "ص 9"
+      },
+      {
+        "term": "الببتيد الدماغي المدر للصوديوم",
+        "termEn": "BNP / NT-proBNP",
+        "definition": "هرمون تفرزه خلايا عضلة القلب استجابة لتمدد جدران البطين وزيادة الضغط داخلها.",
+        "clinicalSignificance": "له قيمة تنبؤية سلبية عالية جدًا لنفي قصور القلب الحاد في الطوارئ.",
+        "page": "ص 13"
+      },
+      {
+        "term": "صوت القلب الثالث",
+        "termEn": "S3 Gallop",
+        "definition": "صوت قلبي منخفض التردد يحدث في بداية الانبساط نتيجة تدفق سريع للدم إلى بطين متوسع وغير مرن.",
+        "clinicalSignificance": "علامة سريرية مؤكدة لزيادة حجم السوائل وقصور القلب الانقباضي المتقدم.",
+        "page": "ص 10"
+      },
+      {
+        "term": "إعادة التشكيل البطيني",
+        "termEn": "Ventricular Remodeling",
+        "definition": "تغيرات هيكلية وبنيوية تدريجية في حجم وشكل وسماكة عضلة القلب تؤدي لتدهور الوظيفة.",
+        "clinicalSignificance": "الهدف الأساسي لأدوية GDMT هو إيقاف أو عكس هذا التحول (Reverse remodeling).",
+        "page": "ص 6"
+      }
+    ],
+    "tables": [
+      {
+        "id": "tab-1",
+        "title": "مقارنة HFrEF مقابل HFpEF",
+        "description": "فروقات وظيفة الانقباض والانبساط، حجم التجويف، والعلاج الموصى به.",
+        "page": "ص 3",
+        "keyComparison": "HFrEF يتميز بضعف الانقباض وتوسع البطين، بينما HFpEF يتميز بضعف الامتلاء وسماكة الجدران."
+      },
+      {
+        "id": "tab-2",
+        "title": "تصنيف NYHA للأداء الوظيفي",
+        "description": "تقسيم المرضى إلى 4 درجات بحسب القيود على النشاط البدني المعتاد.",
+        "page": "ص 14",
+        "keyComparison": "الفئة الأولى: لا قيود. الفئة الرابعة: أعراض حتى أثناء الراحة التامة."
+      }
+    ],
+    "figures": [
+      {
+        "id": "fig-1",
+        "title": "حلقة الارتجاع الهرموني العصبي (Neurohormonal Vicious Cycle)",
+        "description": "مخطط يوضح كيف يؤدي انخفاض النتاج القلبي لتفعيل RAAS و SNS مما يزيد العبء على القلب ويفاقم القصور.",
+        "page": "ص 5",
+        "keyObservations": "إثبات أن الآليات التعويضية على المدى القصير تصبح ضارة وقاتلة لعضلة القلب على المدى الطويل."
+      },
+      {
+        "id": "fig-2",
+        "title": "علامات صورة الصدر الشعاعية (CXR in Pulmonary Edema)",
+        "description": "توضيح خطوط كيرلي (Kerley B lines)، تضخم المشعر القلبي، وتجمع السوائل في القواعد الرئوية.",
+        "page": "ص 12",
+        "keyObservations": "التفريق بين الاحتقان الوعائي الرئوي والالتهابات الرئوية الأخرى."
+      }
+    ],
+    "highYieldPoints": [
+      {
+        "category": "أدوية تقليل الوفيات",
+        "point": "أدوية GDMT الأربعة (ARNI/ACEi, Beta-blockers, MRA, SGLT2i) تقلل معدل الوفيات بشكل قطعي، بينما المدرات (Loop diuretics) تحسن الأعراض فقط دون تأثير مثبت على البقاء.",
+        "examRelevance": "عالية جدًا 🔥"
+      },
+      {
+        "category": "فخاخ تشخيصية",
+        "point": "قيمة BNP الطبيعية تستبعد قصور القلب بنسبة تفوق 95%، ولكن البدانة المفرطة قد تخفض قيمة BNP كاذبًا!",
+        "examRelevance": "سؤال مكرر"
+      },
+      {
+        "category": "معلومة سريرية ذهبية",
+        "point": "الأعراض الأكثر حساسية لارتفاع الضغط الوريدي هي JVP و S3 Gallop و Orthopnea.",
+        "examRelevance": "معلومة سريرية"
+      },
+      {
+        "category": "موانع استعمال حاسمة",
+        "point": "يمنع الجمع بين ACE inhibitor و ARNI في نفس الوقت لتجنب خطر الوذمة الوعائية (Angioedema)، ويجب ترك فترة غسيل 36 ساعة على الأقل.",
+        "examRelevance": "عالية جدًا 🔥"
+      }
+    ],
+    "qualityReport": {
+      "textQuality": "ممتازة",
+      "scannedPagesDetected": false,
+      "imageDetection": true,
+      "notes": "تم تحليل المستند بنجاح فائق وتحديد كافة الأقسام والمخططات بدقة.",
+      "isPartial": false,
+      "pdfType": "Text PDF"
+    },
+    "studyPlan": [
+      {
+        "day": 1,
+        "title": "اليوم الأول: الأساسيات والفسلجة المرضية (Topics 1 & 2)",
+        "topicIds": ["topic-1", "topic-2"],
+        "estimatedMinutes": 60,
+        "isDone": true
+      },
+      {
+        "day": 2,
+        "title": "اليوم الثاني: المظاهر السريرية والفحوصات (Topics 3 & 4)",
+        "topicIds": ["topic-3", "topic-4"],
+        "estimatedMinutes": 60,
+        "isDone": false
+      },
+      {
+        "day": 3,
+        "title": "اليوم الثالث: بروتوكولات العلاج وورقة الإنقاذ (Topic 5)",
+        "topicIds": ["topic-5"],
+        "estimatedMinutes": 60,
+        "isDone": false
+      }
+    ]
+  }
+]

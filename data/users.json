@@ -1,0 +1,25 @@
+[
+  {
+    "id": "user_1",
+    "name": "علي الرافدين",
+    "email": "student@darrasni.iq",
+    "isGuest": false,
+    "specialization": "Medicine",
+    "academicLevel": "المرحلة الثالثة - كلية الطب",
+    "dialect": "iraqi",
+    "explanationLevel": "medium",
+    "explanationStyle": "tutor",
+    "keepEnglishTerms": true,
+    "useAnalogies": true,
+    "useEmojis": true,
+    "theme": "system",
+    "xp": 340,
+    "level": 2,
+    "streak": 4,
+    "lastStudyDate": "2026-09-08T05:30:00.000Z",
+    "totalStudyMinutes": 65,
+    "topicsCompletedCount": 5,
+    "quizzesTakenCount": 3,
+    "flashcardsMasteredCount": 24
+  }
+]
